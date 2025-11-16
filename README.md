@@ -28,8 +28,7 @@ Example of working pipeline:
 
 As a result:
 
-
-
+![teaser](assets/example_result.png)
 
 ## Citation
 
