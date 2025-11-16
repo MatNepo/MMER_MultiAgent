@@ -16,6 +16,7 @@ Effective human-agent interaction (HAI) relies on accurate and adaptive percepti
 
 Keywords: Multi-Agent Systems, Emotion Recognition, Multimodal Learning, Modular Architecture, Supervisor Architecture, Agent Coordination, Human-Agent System
 
+<img width="2074" height="555" alt="classificator_pipeline (1)" src="https://github.com/user-attachments/assets/0e574193-7bd5-45d4-85c0-012166937772" />
 
 
 ## Citation
@@ -23,9 +24,9 @@ Keywords: Multi-Agent Systems, Emotion Recognition, Multimodal Learning, Modular
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{istomin2025geometry,
-  title={Geometry Restoration and Dewarping of Camera-Captured Document Images},
-  author={Istomin, Valery and Pereziabov, Oleg and Afanasyev, Ilya},
-  journal={arXiv preprint arXiv:2501.03145},
+@article{nepomny2025multiagent_emotion,
+  title={Agent-Based Modular Learning for Multimodal Emotion Recognition in Human-Agent Systems},
+  author={Nepomnyashchiy, Matvey and Pereziabov, Oleg and Tliamov, Anvar and Mikhailov, Stanislav and Afanasyev, Ilya},
+  journal={arXiv preprint arXiv:NUMBER},
   year={2025}
 }
