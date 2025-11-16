@@ -19,6 +19,9 @@ Keywords: Multi-Agent Systems, Emotion Recognition, Multimodal Learning, Modular
 <img width="2074" height="555" alt="classificator_pipeline (1)" src="https://github.com/user-attachments/assets/0e574193-7bd5-45d4-85c0-012166937772" />
 
 
+![teaser](assets/example.png)
+
+
 ## Citation
 
 If you find this project useful, please consider citing:
