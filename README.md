@@ -2,12 +2,12 @@
 <h1>Agent-Based Modular Learning for Multimodal Emotion Recognition in Human-Agent Systems</h1>
 
 
-**Matvey Nepomnyashchiy**<sup>1</sup>, [**Oleg Perezyabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup>, [**Anvar Tliamov**](https://www.linkedin.com/in/anvar-tliamov-840544233/)<sup>3</sup>, [**Stanislav Mikhailov**](https://www.linkedin.com/in/valery-istomin-90a473247/)<sup>4</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>5</sup>
+**Matvey Nepomnyashchiy**<sup>1</sup>, [**Oleg Perezyabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup>, [**Anvar Tliamov**](https://www.linkedin.com/in/anvar-tliamov-840544233/)<sup>3</sup>, **Stanislav Mikhailov**<sup>4</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>5</sup>
 
 
-<a href="https://arxiv.org/abs/2501.03145"><img src='https://img.shields.io/badge/arXiv-Document%20Dewarping-red' alt='Paper PDF'></a>
-<a href='https://github.com/HorizonParadox/DRCCBI'><img src='https://img.shields.io/badge/Code-Document%20Dewarping-yellow' alt='Benchmark'></a>
-<a href='https://github.com/HorizonParadox/DRCCBI/tree/main/public'><img src='https://img.shields.io/badge/Data-Document%20Dewarping-blue' alt='Dataset'></a>
+<a href="None"><img src='https://img.shields.io/badge/arXiv-Document%20Dewarping-red' alt='Paper PDF'></a>
+<a href='None'><img src='https://img.shields.io/badge/Code-Document%20Dewarping-yellow' alt='Benchmark'></a>
+<a href='None'><img src='https://img.shields.io/badge/Data-Document%20Dewarping-blue' alt='Dataset'></a>
 
 </div>
 
