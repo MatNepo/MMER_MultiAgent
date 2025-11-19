@@ -2,11 +2,11 @@
 <h1>Agent-Based Modular Learning for Multimodal Emotion Recognition in Human-Agent Systems</h1>
 
 
-**Matvey Nepomnyashchiy**<sup>1</sup>, [**Oleg Perezyabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup>, [**Anvar Tliamov**](https://www.linkedin.com/in/anvar-tliamov-840544233/)<sup>3</sup>, **Stanislav Mikhailov**<sup>4</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>5</sup>
+**Matvey Nepomnyashchiy**<sup>1</sup>, [**Oleg Perezyabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup>, [**Anvar Tliamov**](https://www.linkedin.com/in/anvar-tliamov-840544233/)<sup>3</sup>, [**Stanislav Mikhailov**](https://www.linkedin.com/in/stanislav-mikhailov-821854233/)<sup>4</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>5</sup>
 
 
 <a href="None"><img src='https://img.shields.io/badge/arXiv-Document%20Dewarping-red' alt='Paper PDF'></a>
-<a href='None'><img src='https://img.shields.io/badge/Code-Document%20Dewarping-yellow' alt='Benchmark'></a>
+<a href='https://github.com/MatNepo/MMEmoRec'><img src='https://img.shields.io/badge/Code-Document%20Dewarping-yellow' alt='Benchmark'></a>
 <a href='None'><img src='https://img.shields.io/badge/Data-Document%20Dewarping-blue' alt='Dataset'></a>
 
 </div>
@@ -19,14 +19,14 @@ Keywords: Multi-Agent Systems, Emotion Recognition, Multimodal Learning, Modular
 <img width="2074" height="555" alt="classificator_pipeline (1)" src="https://github.com/user-attachments/assets/0e574193-7bd5-45d4-85c0-012166937772" />
 
 
-Example of working pipeline:
-1) Upload video fragment;
-2) Agents analyze from different ways: text, video, audio
-3) Result will be an emotion
+Example workflow:
+1) Upload a video fragment.
+2) Independent agents analyze it across modalities: text, visuals, and audio.
+3) The system produces a unified emotion prediction.
 
 ![teaser](assets/example.png)
 
-As a result:
+Result:
 
 ![teaser](assets/results_visualization.png)
 
